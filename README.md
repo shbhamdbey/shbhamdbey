@@ -18,5 +18,5 @@ I am a graduate student pursuing Masters in Computer Science from New Jersey Ins
 
 ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'.😂
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=@shbhamdbey=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/shbhamdbey=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
