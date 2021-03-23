@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shbhamdbey&label=Profile%20views&color=0e75b6&style=flat" alt="shbhamdbey" /> </p>
 
+-🔭 I’m currently exploring ML and Data Analytics, looking for opportunities to contribute.
+
+-🌱 I’m currently learning **Machine Learning**, **Supply Chain Management and logistics** and a lot more.
+
+-💬 Ask me about **Python, Tableau , AWS, SQL & NoSql, Basic ML models**
+
 - 📫 How to reach me **sd858@njit.edu**
 
 - ⚡ Fun fact **: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'.😂**
