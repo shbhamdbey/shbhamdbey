@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Dubey</h1>
-<h3 align="center">I am a graduate student pursuing Masters in Computer Science from New Jersey Institute of Technology ,New Jersey. I am driven team player with constructive problem solving and project management skills demonstrated thorough hands on involvement during interships, projects and organizations.</h3>
+<h4 align="center">I am a graduate student pursuing Masters in Computer Science from New Jersey Institute of Technology ,New Jersey. I am driven team player with constructive problem solving and project management skills demonstrated thorough hands on involvement during interships, projects and organizations.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shbhamdbey&label=Profile%20views&color=0e75b6&style=flat" alt="shbhamdbey" /> </p>
 
