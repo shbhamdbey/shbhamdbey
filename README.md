@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**, **Supply Chain Management and logistics** and a lot more.
 
-- 💬 Ask me about **Python, Tableau , AWS, SQL & NoSql, Basic ML models**
+- 💬 Ask me about **Python, Tableau , AWS, SQL & NoSql, ML models**
 
 - 📫 How to reach me **sd858@njit.edu**
 
